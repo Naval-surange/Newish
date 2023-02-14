@@ -1,0 +1,698 @@
+ls
+cd ..
+cd -
+cd history
+history
+exit
+ls
+history
+exit
+ls
+cd ..
+history
+exit
+ls
+cd ..
+ls ~
+ls ~/src 
+exit
+cd kew ewfn  uwenfkj
+cd .. wen
+exit
+cd wflk wflg
+exit
+cd .. kewnkfn 
+cd ..
+ls
+cd ..
+ls
+cd ksh
+ls
+cd ..
+cd ksh/src
+cd -
+cd ~
+cd ~/src
+cd ~
+ls
+cd /src
+cd ..
+cd ~\src
+exit
+cd ..
+cd ~/..
+cls
+clear
+echo     "kjwefjnwenkwjenf" "jdnjqnwfn" lqwhfeqnfkjne
+echo a		b
+clear
+cd ~
+clear
+pwd
+pwd wlnefl
+exit
+clear
+cd ..
+discover a.out
+ls
+touch a.out
+ls
+discover a.out
+discover . a.out
+discover .
+clear
+discover -d . a.out
+discover -f . a.out
+ls
+cd A2
+ls
+cd ~
+ls
+clear
+discover . a.out
+ls
+cd ../..
+ls
+discover . a.out
+ discover . a.out
+discover . a.out -f
+discover . a.out -d
+exit
+cd ..
+ discover . a.out -d
+discover . a.out -f
+clear
+exit
+histoy
+history
+cls
+exit
+ls
+cd ..
+ls
+history 
+ls
+cls
+clear
+history
+clear
+exit
+sleep 10
+cl
+cls
+ls
+clear
+exit
+ls
+cls
+clear
+fg
+clear
+sleep 10
+cl
+cls
+clear
+fg
+ls
+clear
+exit
+ls
+sleep 10
+ls
+cls
+clear
+exit
+â-mls
+mls
+/nologin
+lp:x:7:7:lp:/var/spool/lpd:/usr/sbin/nologin
+mail:x:8:8:mail:/var/mail:/usr/sbin/nologin
+news:x:9:9:news:/var/spool/news:/usr/sbin/nologin
+uucp:x:10:10:uucp:/var/spool/uucp:/usr/sbin/nologin
+proxy:x:13:13:proxy:/bin:/usr/sbin/nologin
+www-data:x:33:33:www-data:/var/www:/usr/sbin/nologin
+backup:x:34:34:backup:/var/backups:/usr/sbin/nologin
+list:x:38:38:Mailing List Manager:/var/list:/usr/sbin/nologin
+irc:x:39:39:ircd:/run/ircd:/usr/sbin/nologin
+gnats:x:41:41:Gnats Bug-Reporting System (admin):/var/lib/gnats:/usr/sbin/nologin
+nobody:x:65534:65534:nobody:/nonexistent:/usr/sbin/nologin
+systemd-network:x:100:102:systemd Network Management,,,:/run/systemd:/usr/sbin/nologin
+systemd-resolve:x:101:103:systemd Resolver,,,:/run/systemd:/usr/sbin/nologin
+messagebus:x:102:105::/nonexistent:/usr/sbin/nologin
+systemd-timesync:x:103:106:systemd Time Synchronization,,,:/run/systemd:/usr/sbin/nologin
+syslog:x:104:111::/home/syslog:/usr/sbin/nologin
+_apt:x:105:65534::/nonexistent:/usr/sbin/nologin
+geoclue:x:106:112::/var/lib!clear
+ls
+/nologin
+lp:x:7:7:lp:/var/spool/lpd:/usr/sbin/nologin
+mail:x:8:8:mail:/var/mail:/usr/sbin/nologin
+news:x:9:9:news:/var/spool/news:/usr/sbin/nologin
+uucp:x:10:10:uucp:/var/spool/uucp:/usr/sbin/nologin
+proxy:x:13:13:proxy:/bin:/usr/sbin/nologin
+www-data:x:33:33:www-data:/var/www:/usr/sbin/nologin
+backup:x:34:34:backup:/var/backups:/usr/sbin/nologin
+list:x:38:38:Mailing List Manager:/var/list:/usr/sbin/nologin
+irc:x:39:39:ircd:/run/ircd:/usr/sbin/nologin
+gnats:x:41:41:Gnats Bug-Reporting System (admin):/var/lib/gnats:/usr/sbin/nologin
+nobody:x:65534:65534:nobody:/nonexistent:/usr/sbin/nologin
+systemd-network:x:100:102:systemd Network Management,,,:/run/systemd:/usr/sbin/nologin
+systemd-resolve:x:101:103:systemd Resolver,,,:/run/systemd:/usr/sbin/nologin
+messagebus:x:102:105::/nonexistent:/usr/sbin/nologin
+systemd-timesync:x:103:106:systemd Time Synchronization,,,:/run/systemd:/usr/sbin/nologin
+syslog:x:104:111::/home/syslog:/usr/sbin/nologin
+_apt:x:105:65534::/nonexistent:/usr/sbin/nologin
+geoclue:x:106:112::/var/lib!ss
+Zaaaa
+ologin
+lp:x:7:7:lp:/var/spool/lpd:/usr/sbin/nologin
+mail:x:8:8:mail:/var/mail:/usr/sbin/nologin
+news:x:9:9:news:/var/spool/news:/usr/sbin/nologin
+uucp:x:10:10:uucp:/var/spool/uucp:/usr/sbin/nologin
+proxy:x:13:13:proxy:/bin:/usr/sbin/nologin
+www-data:x:33:33:www-data:/var/www:/usr/sbin/nologin
+backup:x:34:34:backup:/var/backups:/usr/sbin/nologin
+list:x:38:38:Mailing List Manager:/var/list:/usr/sbin/nologin
+irc:x:39:39:ircd:/run/ircd:/usr/sbin/nologin
+gnats:x:41:41:Gnats Bug-Reporting System (admin):/var/lib/gnats:/usr/sbin/nologin
+nobody:x:65534:65534:nobody:/nonexistent:/usr/sbin/nologin
+systemd-network:x:100:102:systemd Network Management,,,:/run/systemd:/usr/sbin/nologin
+systemd-resolve:x:101:103:systemd Resolver,,,:/run/systemd:/usr/sbin/nologin
+messagebus:x:102:105::/nonexistent:/usr/sbin/nologin
+systemd-timesync:x:103:106:systemd Time Synchronization,,,:/run/systemd:/usr/sbin/nologin
+syslog:x:104:111::/home/syslog:/usr/sbin/nologin
+_apt:x:105:65534::/nonexistent:/usr/sbin/nologin
+geoclue:x:106:112::/var/lib!exit
+bž,ls
+ž,clear
+:0:0:root:/root:/bin/zsh
+daemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin
+bin:x:2:2:bin:/bin:/usr/sbin/nologin
+sys:x:3:3:sys:/dev:/usr/sbin/nologin
+sync:x:4:65534:sync:/bin:/bin/sync
+games:x:5:60:games:/usr/games:/usr/sbin/nologin
+man:x:6:12:man:/var/cache/man:/usr/sbin/nologin
+lp:x:7:7:lp:/var/spool/lpd:/usr/sbin/nologin
+mail:x:8:8:mail:/var/mail:/usr/sbin/nologin
+news:x:9:9:news:/var/spool/news:/usr/sbin/nologin
+uucp:x:10:10:uucp:/var/spool/uucp:/usr/sbin/nologin
+proxy:x:13:13:proxy:/bin:/usr/sbin/nologin
+www-data:x:33:33:www-data:/var/www:/usr/sbin/nologin
+backup:x:34:34:backup:/var/backups:/usr/sbin/nologin
+list:x:38:38:Mailing List Manager:/var/list:/usr/sbin/nologin
+irc:x:39:39:ircd:/run/ircd:/usr/sbin/nologin
+gnats:x:41:41:Gnats Bug-Reporting System (admin):/var/lib/gnats:/usr/sbin/nologin
+nobody:x:65534:65534:nobody:/nonexistent:/usr/sbin/nologin
+systemd-network:x:100:102:systemd Network Management,,,:/run/systemd:/usr/sbin/nologin
+systemd-resolve:x:101:103:systemd Resolver,,,:/run/systemd:/usr/sbin/nolo!exit
+|C¯
+|C¯exit
+x:0:0:root:/root:/bin/zsh
+daemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin
+bin:x:2:2:bin:/bin:/usr/sbin/nologin
+sys:x:3:3:sys:/dev:/usr/sbin/nologin
+sync:x:4:65534:sync:/bin:/bin/sync
+games:x:5:60:games:/usr/games:/usr/sbin/nologin
+man:x:6:12:man:/var/cache/man:/usr/sbin/nologin
+lp:x:7:7:lp:/var/spool/lpd:/usr/sbin/nologin
+mail:x:8:8:mail:/var/mail:/usr/sbin/nologin
+news:x:9:9:news:/var/spool/news:/usr/sbin/nologin
+uucp:x:10:10:uucp:/var/spool/uucp:/usr/sbin/nologin
+proxy:x:13:13:proxy:/bin:/usr/sbin/nologin
+www-data:x:33:33:www-data:/var/www:/usr/sbin/nologin
+backup:x:34:34:backup:/var/backups:/usr/sbin/nologin
+list:x:38:38:Mailing List Manager:/var/list:/usr/sbin/nologin
+irc:x:39:39:ircd:/run/ircd:/usr/sbin/nologin
+gnats:x:41:41:Gnats Bug-Reporting System (admin):/var/lib/gnats:/usr/sbin/nologin
+nobody:x:65534:65534:nobody:/nonexistent:/usr/sbin/nologin
+systemd-network:x:100:102:systemd Network Management,,,:/run/systemd:/usr/sbin/nologin
+systemd-resolve:x:101:103:systemd Resolver,,,:/run/systemd:/usr/sbin/nolo![Aexit
+exit
+ologin
+lp:x:7:7:lp:/var/spool/lpd:/usr/sbin/nologin
+mail:x:8:8:mail:/var/mail:/usr/sbin/nologin
+news:x:9:9:news:/var/spool/news:/usr/sbin/nologin
+uucp:x:10:10:uucp:/var/spool/uucp:/usr/sbin/nologin
+proxy:x:13:13:proxy:/bin:/usr/sbin/nologin
+www-data:x:33:33:www-data:/var/www:/usr/sbin/nologin
+backup:x:34:34:backup:/var/backups:/usr/sbin/nologin
+list:x:38:38:Mailing List Manager:/var/list:/usr/sbin/nologin
+irc:x:39:39:ircd:/run/ircd:/usr/sbin/nologin
+gnats:x:41:41:Gnats Bug-Reporting System (admin):/var/lib/gnats:/usr/sbin/nologin
+nobody:x:65534:65534:nobody:/nonexistent:/usr/sbin/nologin
+systemd-network:x:100:102:systemd Network Management,,,:/run/systemd:/usr/sbin/nologin
+systemd-resolve:x:101:103:systemd Resolver,,,:/run/systemd:/usr/sbin/nologin
+messagebus:x:102:105::/nonexistent:/usr/sbin/nologin
+systemd-timesync:x:103:106:systemd Time Synchronization,,,:/run/systemd:/usr/sbin/nologin
+syslog:x:104:111::/home/syslog:/usr/sbin/nologin
+_apt:x:105:65534::/nonexistent:/usr/sbin/nologin
+geoclue:x:106:112::/var/lib!exit
+ÒðÞ¨ls
+Þ¨clear
+:0:0:root:/root:/bin/zsh
+daemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin
+bin:x:2:2:bin:/bin:/usr/sbin/nologin
+sys:x:3:3:sys:/dev:/usr/sbin/nologin
+sync:x:4:65534:sync:/bin:/bin/sync
+games:x:5:60:games:/usr/games:/usr/sbin/nologin
+man:x:6:12:man:/var/cache/man:/usr/sbin/nologin
+lp:x:7:7:lp:/var/spool/lpd:/usr/sbin/nologin
+mail:x:8:8:mail:/var/mail:/usr/sbin/nologin
+news:x:9:9:news:/var/spool/news:/usr/sbin/nologin
+uucp:x:10:10:uucp:/var/spool/uucp:/usr/sbin/nologin
+proxy:x:13:13:proxy:/bin:/usr/sbin/nologin
+www-data:x:33:33:www-data:/var/www:/usr/sbin/nologin
+backup:x:34:34:backup:/var/backups:/usr/sbin/nologin
+list:x:38:38:Mailing List Manager:/var/list:/usr/sbin/nologin
+irc:x:39:39:ircd:/run/ircd:/usr/sbin/nologin
+gnats:x:41:41:Gnats Bug-Reporting System (admin):/var/lib/gnats:/usr/sbin/nologin
+nobody:x:65534:65534:nobody:/nonexistent:/usr/sbin/nologin
+systemd-network:x:100:102:systemd Network Management,,,:/run/systemd:/usr/sbin/nologin
+systemd-resolve:x:101:103:systemd Resolver,,,:/run/systemd:/usr/sbin/nolo!exit
+Òµ¤+sl
+¤+ls
+t:x:0:0:root:/root:/bin/zsh
+daemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin
+bin:x:2:2:bin:/bin:/usr/sbin/nologin
+sys:x:3:3:sys:/dev:/usr/sbin/nologin
+sync:x:4:65534:sync:/bin:/bin/sync
+games:x:5:60:games:/usr/games:/usr/sbin/nologin
+man:x:6:12:man:/var/cache/man:/usr/sbin/nologin
+lp:x:7:7:lp:/var/spool/lpd:/usr/sbin/nologin
+mail:x:8:8:mail:/var/mail:/usr/sbin/nologin
+news:x:9:9:news:/var/spool/news:/usr/sbin/nologin
+uucp:x:10:10:uucp:/var/spool/uucp:/usr/sbin/nologin
+proxy:x:13:13:proxy:/bin:/usr/sbin/nologin
+www-data:x:33:33:www-data:/var/www:/usr/sbin/nologin
+backup:x:34:34:backup:/var/backups:/usr/sbin/nologin
+list:x:38:38:Mailing List Manager:/var/list:/usr/sbin/nologin
+irc:x:39:39:ircd:/run/ircd:/usr/sbin/nologin
+gnats:x:41:41:Gnats Bug-Reporting System (admin):/var/lib/gnats:/usr/sbin/nologin
+nobody:x:65534:65534:nobody:/nonexistent:/usr/sbin/nologin
+systemd-network:x:100:102:systemd Network Management,,,:/run/systemd:/usr/sbin/nologin
+systemd-resolve:x:101:103:systemd Resolver,,,:/run/systemd:/usr/sbin/nolo!cler
+clear
+login
+lp:x:7:7:lp:/var/spool/lpd:/usr/sbin/nologin
+mail:x:8:8:mail:/var/mail:/usr/sbin/nologin
+news:x:9:9:news:/var/spool/news:/usr/sbin/nologin
+uucp:x:10:10:uucp:/var/spool/uucp:/usr/sbin/nologin
+proxy:x:13:13:proxy:/bin:/usr/sbin/nologin
+www-data:x:33:33:www-data:/var/www:/usr/sbin/nologin
+backup:x:34:34:backup:/var/backups:/usr/sbin/nologin
+list:x:38:38:Mailing List Manager:/var/list:/usr/sbin/nologin
+irc:x:39:39:ircd:/run/ircd:/usr/sbin/nologin
+gnats:x:41:41:Gnats Bug-Reporting System (admin):/var/lib/gnats:/usr/sbin/nologin
+nobody:x:65534:65534:nobody:/nonexistent:/usr/sbin/nologin
+systemd-network:x:100:102:systemd Network Management,,,:/run/systemd:/usr/sbin/nologin
+systemd-resolve:x:101:103:systemd Resolver,,,:/run/systemd:/usr/sbin/nologin
+messagebus:x:102:105::/nonexistent:/usr/sbin/nologin
+systemd-timesync:x:103:106:systemd Time Synchronization,,,:/run/systemd:/usr/sbin/nologin
+syslog:x:104:111::/home/syslog:/usr/sbin/nologin
+_apt:x:105:65534::/nonexistent:/usr/sbin/nologin
+geoclue:x:106:112::/var/lib!exit
+‚¬û
+¬ûls
+t:x:0:0:root:/root:/bin/zsh
+daemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin
+bin:x:2:2:bin:/bin:/usr/sbin/nologin
+sys:x:3:3:sys:/dev:/usr/sbin/nologin
+sync:x:4:65534:sync:/bin:/bin/sync
+games:x:5:60:games:/usr/games:/usr/sbin/nologin
+man:x:6:12:man:/var/cache/man:/usr/sbin/nologin
+lp:x:7:7:lp:/var/spool/lpd:/usr/sbin/nologin
+mail:x:8:8:mail:/var/mail:/usr/sbin/nologin
+news:x:9:9:news:/var/spool/news:/usr/sbin/nologin
+uucp:x:10:10:uucp:/var/spool/uucp:/usr/sbin/nologin
+proxy:x:13:13:proxy:/bin:/usr/sbin/nologin
+www-data:x:33:33:www-data:/var/www:/usr/sbin/nologin
+backup:x:34:34:backup:/var/backups:/usr/sbin/nologin
+list:x:38:38:Mailing List Manager:/var/list:/usr/sbin/nologin
+irc:x:39:39:ircd:/run/ircd:/usr/sbin/nologin
+gnats:x:41:41:Gnats Bug-Reporting System (admin):/var/lib/gnats:/usr/sbin/nologin
+nobody:x:65534:65534:nobody:/nonexistent:/usr/sbin/nologin
+systemd-network:x:100:102:systemd Network Management,,,:/run/systemd:/usr/sbin/nologin
+systemd-resolve:x:101:103:systemd Resolver,,,:/run/systemd:/usr/sbin/nolo!exit
+ls
+clear
+ls
+sleep 1&sleep 2;
+sleep1&sleep2;sleep3
+clear
+exit
+ls
+clear
+sleep 1;sleep 2& sleep 2
+cls
+clear
+sleep 10&
+exit
+sleep 3&
+clear
+exit
+sleep 2
+clear
+exit
+sleep 2
+ls
+clear
+sleep 3
+cls
+cler
+clea
+clear
+sleep 4
+exit
+sleep 2
+clear
+exit
+sleep 3
+clear
+exit
+ls
+sleep 2
+exit
+ls
+sleep 1
+ls
+clear
+sleep 4
+ls
+exit
+sleep 2
+ls
+sleep 4
+ls
+clear
+exit
+sleep 3
+ls
+exit
+sleep 3
+ls
+exit
+sleep 4
+ls
+clear
+exit
+sleep 2
+ls
+exit
+sleep 3
+ls
+clear
+exit
+sleep 3
+ls
+clear
+exit
+sleep 3
+sl
+ls
+clear
+exit
+sleep 3&
+n
+OBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOA
+exit
+sleep 3
+ls
+clear
+exit
+sleep 3
+ls
+cear
+exit
+cls
+sleep 3
+ls
+clear
+exit
+sleep 3
+ls
+clear
+sleep 1
+sleep 1&
+exit
+sleep 1
+ls
+clear
+sleep 2&
+ls
+clear
+exit
+sleep 2&
+exit
+sleep 1
+clear
+exit
+sleep 3
+ls
+sleep 1&
+cls
+clear
+exit
+sleep 3
+ls
+sleep 3
+ls
+exit
+sleep 1
+exit
+sleep 3
+exit
+sleep 3
+cls
+sleep 3&
+cls
+clear
+exit
+clear
+exit
+ls
+clear
+ls
+clear
+ls
+exit
+sleep 10&
+jobs
+exit
+sleep 10&
+jobs
+exit
+sleep 3&
+jobs
+clear
+sleep 5&sleep 5&
+jobs
+sleep 4&
+jobs
+exit
+sleep 5&sleep 5&
+jobs
+sleep 4&
+jobs
+ls
+jobs
+sleep 1&
+jobs
+exit
+ls
+sleep 1&sleep 2;
+jobs
+sleep 4&
+jobs
+sleep 1;
+sleep 3&
+jobjs
+jobs
+sleep 5&
+jobs
+exit
+sleep 3
+ls
+sleep 4
+s
+sls
+ls
+sleep 4
+exit
+sleep 3
+ls
+sleep 3
+ls
+cls
+clear
+[A
+[Aexit
+exit
+ls
+sleep 3
+ls
+exit
+ls
+exit
+ls
+sleep 4
+ls
+exit
+sleep 3
+ls
+clear
+exit
+ls
+sleep 4
+ls
+clear
+[A
+exit
+sleep 3
+ls
+clear
+exit
+ls
+clea
+sleep 2
+exit
+sleep 3
+exit
+sleep 4
+exit
+sleep 3
+exit
+echo hii >> a.txt
+s
+ls
+cat a.txt
+exit
+echo "hi" >> a.txt
+ls
+exit
+echo hii >> a.txt ;
+ls
+cat a.txt
+cat a.txt 
+exit
+ls
+clear
+echo hii >> a.txt
+ls
+cat a.txt
+exit
+echo hiii >> a.txt
+exit
+echo hooo >> a.txt
+ls
+cat a.txt
+exit
+echo a >>     a.txt
+ls
+exit
+echo aaa>>a.txt
+exit
+echo e >> a.txt       
+ls
+cat " a.txt"
+exit
+echo a >> a.txt
+ls
+cat a.txt
+exit
+echo hii >> a.txt
+ls
+cat a.txt
+cls
+exit
+ls
+echo hii >> a.txt
+exit
+echo "hii" >> a.txt
+exit
+ls
+echo hii >> a.txt
+exit
+ls
+cat <a.txt
+cat < a.txt
+exit
+cat < a.txt
+ls
+cat < a.txt > b.txt
+cat < b.txt
+exit
+ls > a.txt
+cat a.txt
+exit
+ls > a.txt
+cat a.txt
+ls
+ ls > a.txt
+cat a.txt
+clear
+ls
+sort < a.txt > s.txt
+cat s.txt
+exit
+ls
+clear
+echo hiii > a.txt
+echo byee >> a.txt
+cat a.txt
+echo bye > a.txt
+cat a.txt
+exit
+echo hehe >> a.txt
+cat a.txt
+exit
+echi hehe >> a.txt
+exit
+ehehhe >> aadd
+eheheh > aa
+exit
+heheh >> hdhd
+echo hii >> a.txt
+ls
+cat a.txt
+rm aa
+rm aadd
+ls
+rm a.txt
+ls
+exit
+echo hii >> a.txt
+cat a.txt
+echo byuu >> a.txt
+cat a.txt
+echo clear > a.txt
+cat a.txt
+clear
+exit
+ls
+rm a.txt
+ls
+echo "hello" " >> outputs.txt
+cat outputs.txt
+echo 3 4 1 4 5 77 13 4 >> a.txt
+ls
+cat a,txt
+cat a.txt
+ls
+sort < a.txt > b.txt
+cat < b.txt
+exit
+sort < a.txt
+sort < a.txt > b.txt
+cat b.txt
+echo sorted >> b.txt
+cat b.txt
+exit
+sleep 3& echo works > a.txt
+cat a.txt
+exit
+echo hiii > a.txt
+echo bruu > a.txt
+echo hiii > a.txt
+exit
+echo heheh > a.txt
+exit

@@ -1,0 +1,23 @@
+{
+    "files.associations": {
+        "headers.h": "c",
+        "unistd.h": "c",
+        "*.tcc": "c",
+        "string": "c",
+        "streambuf": "c",
+        "stdio.h": "c",
+        "state.h": "c",
+        "definations.h": "c",
+        "cerrno": "c",
+        "history.h": "c",
+        "cd.h": "c",
+        "types.h": "c",
+        "porcess.h": "c",
+        "utsname.h": "c",
+        "execute.h": "c",
+        "typeinfo": "c",
+        "pinfo.h": "c",
+        "process.h": "c",
+        "string_view": "c"
+    }
+}
