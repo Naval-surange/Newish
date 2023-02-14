@@ -1,698 +1,921 @@
-ls
-cd ..
-cd -
-cd history
-history
+gefit
+gedit
+exit
+clear 		
 exit
 ls
-history
+ls 
+exi
 exit
-ls
-cd ..
-history
-exit
-ls
-cd ..
-ls ~
-ls ~/src 
-exit
-cd kew ewfn  uwenfkj
-cd .. wen
-exit
-cd wflk wflg
-exit
-cd .. kewnkfn 
-cd ..
-ls
-cd ..
-ls
-cd ksh
-ls
-cd ..
-cd ksh/src
-cd -
-cd ~
-cd ~/src
-cd ~
-ls
-cd /src
-cd ..
-cd ~\src
-exit
-cd ..
-cd ~/..
-cls
-clear
-echo     "kjwefjnwenkwjenf" "jdnjqnwfn" lqwhfeqnfkjne
-echo a		b
-clear
-cd ~
-clear
-pwd
-pwd wlnefl
-exit
-clear
-cd ..
-discover a.out
-ls
-touch a.out
-ls
-discover a.out
-discover . a.out
-discover .
-clear
-discover -d . a.out
-discover -f . a.out
-ls
-cd A2
-ls
-cd ~
-ls
-clear
-discover . a.out
-ls
-cd ../..
-ls
-discover . a.out
- discover . a.out
-discover . a.out -f
-discover . a.out -d
-exit
-cd ..
- discover . a.out -d
-discover . a.out -f
-clear
-exit
-histoy
-history
+pwd 	
 cls
 exit
+ls                              
+ls                                               
+exit
+ls   	 
 ls
+ls	
+clear
+exit
 cd ..
 ls
-history 
-ls
-cls
-clear
-history
-clear
-exit
-sleep 10
-cl
-cls
+cd 2020113018
 ls
 clear
 exit
-ls
-cls
-clear
-fg
-clear
-sleep 10
-cl
-cls
-clear
-fg
-ls
+cd 
+cd .. 
+exit
+cd .. 
 clear
 exit
+discover a
 ls
-sleep 10
-ls
-cls
-clear
+discover
+discover 
+discover 	
 exit
-â-mls
-mls
-/nologin
-lp:x:7:7:lp:/var/spool/lpd:/usr/sbin/nologin
-mail:x:8:8:mail:/var/mail:/usr/sbin/nologin
-news:x:9:9:news:/var/spool/news:/usr/sbin/nologin
-uucp:x:10:10:uucp:/var/spool/uucp:/usr/sbin/nologin
-proxy:x:13:13:proxy:/bin:/usr/sbin/nologin
-www-data:x:33:33:www-data:/var/www:/usr/sbin/nologin
-backup:x:34:34:backup:/var/backups:/usr/sbin/nologin
-list:x:38:38:Mailing List Manager:/var/list:/usr/sbin/nologin
-irc:x:39:39:ircd:/run/ircd:/usr/sbin/nologin
-gnats:x:41:41:Gnats Bug-Reporting System (admin):/var/lib/gnats:/usr/sbin/nologin
-nobody:x:65534:65534:nobody:/nonexistent:/usr/sbin/nologin
-systemd-network:x:100:102:systemd Network Management,,,:/run/systemd:/usr/sbin/nologin
-systemd-resolve:x:101:103:systemd Resolver,,,:/run/systemd:/usr/sbin/nologin
-messagebus:x:102:105::/nonexistent:/usr/sbin/nologin
-systemd-timesync:x:103:106:systemd Time Synchronization,,,:/run/systemd:/usr/sbin/nologin
-syslog:x:104:111::/home/syslog:/usr/sbin/nologin
-_apt:x:105:65534::/nonexistent:/usr/sbin/nologin
-geoclue:x:106:112::/var/lib!clear
-ls
-/nologin
-lp:x:7:7:lp:/var/spool/lpd:/usr/sbin/nologin
-mail:x:8:8:mail:/var/mail:/usr/sbin/nologin
-news:x:9:9:news:/var/spool/news:/usr/sbin/nologin
-uucp:x:10:10:uucp:/var/spool/uucp:/usr/sbin/nologin
-proxy:x:13:13:proxy:/bin:/usr/sbin/nologin
-www-data:x:33:33:www-data:/var/www:/usr/sbin/nologin
-backup:x:34:34:backup:/var/backups:/usr/sbin/nologin
-list:x:38:38:Mailing List Manager:/var/list:/usr/sbin/nologin
-irc:x:39:39:ircd:/run/ircd:/usr/sbin/nologin
-gnats:x:41:41:Gnats Bug-Reporting System (admin):/var/lib/gnats:/usr/sbin/nologin
-nobody:x:65534:65534:nobody:/nonexistent:/usr/sbin/nologin
-systemd-network:x:100:102:systemd Network Management,,,:/run/systemd:/usr/sbin/nologin
-systemd-resolve:x:101:103:systemd Resolver,,,:/run/systemd:/usr/sbin/nologin
-messagebus:x:102:105::/nonexistent:/usr/sbin/nologin
-systemd-timesync:x:103:106:systemd Time Synchronization,,,:/run/systemd:/usr/sbin/nologin
-syslog:x:104:111::/home/syslog:/usr/sbin/nologin
-_apt:x:105:65534::/nonexistent:/usr/sbin/nologin
-geoclue:x:106:112::/var/lib!ss
-Zaaaa
-ologin
-lp:x:7:7:lp:/var/spool/lpd:/usr/sbin/nologin
-mail:x:8:8:mail:/var/mail:/usr/sbin/nologin
-news:x:9:9:news:/var/spool/news:/usr/sbin/nologin
-uucp:x:10:10:uucp:/var/spool/uucp:/usr/sbin/nologin
-proxy:x:13:13:proxy:/bin:/usr/sbin/nologin
-www-data:x:33:33:www-data:/var/www:/usr/sbin/nologin
-backup:x:34:34:backup:/var/backups:/usr/sbin/nologin
-list:x:38:38:Mailing List Manager:/var/list:/usr/sbin/nologin
-irc:x:39:39:ircd:/run/ircd:/usr/sbin/nologin
-gnats:x:41:41:Gnats Bug-Reporting System (admin):/var/lib/gnats:/usr/sbin/nologin
-nobody:x:65534:65534:nobody:/nonexistent:/usr/sbin/nologin
-systemd-network:x:100:102:systemd Network Management,,,:/run/systemd:/usr/sbin/nologin
-systemd-resolve:x:101:103:systemd Resolver,,,:/run/systemd:/usr/sbin/nologin
-messagebus:x:102:105::/nonexistent:/usr/sbin/nologin
-systemd-timesync:x:103:106:systemd Time Synchronization,,,:/run/systemd:/usr/sbin/nologin
-syslog:x:104:111::/home/syslog:/usr/sbin/nologin
-_apt:x:105:65534::/nonexistent:/usr/sbin/nologin
-geoclue:x:106:112::/var/lib!exit
-bž,ls
-ž,clear
-:0:0:root:/root:/bin/zsh
-daemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin
-bin:x:2:2:bin:/bin:/usr/sbin/nologin
-sys:x:3:3:sys:/dev:/usr/sbin/nologin
-sync:x:4:65534:sync:/bin:/bin/sync
-games:x:5:60:games:/usr/games:/usr/sbin/nologin
-man:x:6:12:man:/var/cache/man:/usr/sbin/nologin
-lp:x:7:7:lp:/var/spool/lpd:/usr/sbin/nologin
-mail:x:8:8:mail:/var/mail:/usr/sbin/nologin
-news:x:9:9:news:/var/spool/news:/usr/sbin/nologin
-uucp:x:10:10:uucp:/var/spool/uucp:/usr/sbin/nologin
-proxy:x:13:13:proxy:/bin:/usr/sbin/nologin
-www-data:x:33:33:www-data:/var/www:/usr/sbin/nologin
-backup:x:34:34:backup:/var/backups:/usr/sbin/nologin
-list:x:38:38:Mailing List Manager:/var/list:/usr/sbin/nologin
-irc:x:39:39:ircd:/run/ircd:/usr/sbin/nologin
-gnats:x:41:41:Gnats Bug-Reporting System (admin):/var/lib/gnats:/usr/sbin/nologin
-nobody:x:65534:65534:nobody:/nonexistent:/usr/sbin/nologin
-systemd-network:x:100:102:systemd Network Management,,,:/run/systemd:/usr/sbin/nologin
-systemd-resolve:x:101:103:systemd Resolver,,,:/run/systemd:/usr/sbin/nolo!exit
-|C¯
-|C¯exit
-x:0:0:root:/root:/bin/zsh
-daemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin
-bin:x:2:2:bin:/bin:/usr/sbin/nologin
-sys:x:3:3:sys:/dev:/usr/sbin/nologin
-sync:x:4:65534:sync:/bin:/bin/sync
-games:x:5:60:games:/usr/games:/usr/sbin/nologin
-man:x:6:12:man:/var/cache/man:/usr/sbin/nologin
-lp:x:7:7:lp:/var/spool/lpd:/usr/sbin/nologin
-mail:x:8:8:mail:/var/mail:/usr/sbin/nologin
-news:x:9:9:news:/var/spool/news:/usr/sbin/nologin
-uucp:x:10:10:uucp:/var/spool/uucp:/usr/sbin/nologin
-proxy:x:13:13:proxy:/bin:/usr/sbin/nologin
-www-data:x:33:33:www-data:/var/www:/usr/sbin/nologin
-backup:x:34:34:backup:/var/backups:/usr/sbin/nologin
-list:x:38:38:Mailing List Manager:/var/list:/usr/sbin/nologin
-irc:x:39:39:ircd:/run/ircd:/usr/sbin/nologin
-gnats:x:41:41:Gnats Bug-Reporting System (admin):/var/lib/gnats:/usr/sbin/nologin
-nobody:x:65534:65534:nobody:/nonexistent:/usr/sbin/nologin
-systemd-network:x:100:102:systemd Network Management,,,:/run/systemd:/usr/sbin/nologin
-systemd-resolve:x:101:103:systemd Resolver,,,:/run/systemd:/usr/sbin/nolo![Aexit
+discover 
 exit
-ologin
-lp:x:7:7:lp:/var/spool/lpd:/usr/sbin/nologin
-mail:x:8:8:mail:/var/mail:/usr/sbin/nologin
-news:x:9:9:news:/var/spool/news:/usr/sbin/nologin
-uucp:x:10:10:uucp:/var/spool/uucp:/usr/sbin/nologin
-proxy:x:13:13:proxy:/bin:/usr/sbin/nologin
-www-data:x:33:33:www-data:/var/www:/usr/sbin/nologin
-backup:x:34:34:backup:/var/backups:/usr/sbin/nologin
-list:x:38:38:Mailing List Manager:/var/list:/usr/sbin/nologin
-irc:x:39:39:ircd:/run/ircd:/usr/sbin/nologin
-gnats:x:41:41:Gnats Bug-Reporting System (admin):/var/lib/gnats:/usr/sbin/nologin
-nobody:x:65534:65534:nobody:/nonexistent:/usr/sbin/nologin
-systemd-network:x:100:102:systemd Network Management,,,:/run/systemd:/usr/sbin/nologin
-systemd-resolve:x:101:103:systemd Resolver,,,:/run/systemd:/usr/sbin/nologin
-messagebus:x:102:105::/nonexistent:/usr/sbin/nologin
-systemd-timesync:x:103:106:systemd Time Synchronization,,,:/run/systemd:/usr/sbin/nologin
-syslog:x:104:111::/home/syslog:/usr/sbin/nologin
-_apt:x:105:65534::/nonexistent:/usr/sbin/nologin
-geoclue:x:106:112::/var/lib!exit
-ÒðÞ¨ls
-Þ¨clear
-:0:0:root:/root:/bin/zsh
-daemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin
-bin:x:2:2:bin:/bin:/usr/sbin/nologin
-sys:x:3:3:sys:/dev:/usr/sbin/nologin
-sync:x:4:65534:sync:/bin:/bin/sync
-games:x:5:60:games:/usr/games:/usr/sbin/nologin
-man:x:6:12:man:/var/cache/man:/usr/sbin/nologin
-lp:x:7:7:lp:/var/spool/lpd:/usr/sbin/nologin
-mail:x:8:8:mail:/var/mail:/usr/sbin/nologin
-news:x:9:9:news:/var/spool/news:/usr/sbin/nologin
-uucp:x:10:10:uucp:/var/spool/uucp:/usr/sbin/nologin
-proxy:x:13:13:proxy:/bin:/usr/sbin/nologin
-www-data:x:33:33:www-data:/var/www:/usr/sbin/nologin
-backup:x:34:34:backup:/var/backups:/usr/sbin/nologin
-list:x:38:38:Mailing List Manager:/var/list:/usr/sbin/nologin
-irc:x:39:39:ircd:/run/ircd:/usr/sbin/nologin
-gnats:x:41:41:Gnats Bug-Reporting System (admin):/var/lib/gnats:/usr/sbin/nologin
-nobody:x:65534:65534:nobody:/nonexistent:/usr/sbin/nologin
-systemd-network:x:100:102:systemd Network Management,,,:/run/systemd:/usr/sbin/nologin
-systemd-resolve:x:101:103:systemd Resolver,,,:/run/systemd:/usr/sbin/nolo!exit
-Òµ¤+sl
-¤+ls
-t:x:0:0:root:/root:/bin/zsh
-daemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin
-bin:x:2:2:bin:/bin:/usr/sbin/nologin
-sys:x:3:3:sys:/dev:/usr/sbin/nologin
-sync:x:4:65534:sync:/bin:/bin/sync
-games:x:5:60:games:/usr/games:/usr/sbin/nologin
-man:x:6:12:man:/var/cache/man:/usr/sbin/nologin
-lp:x:7:7:lp:/var/spool/lpd:/usr/sbin/nologin
-mail:x:8:8:mail:/var/mail:/usr/sbin/nologin
-news:x:9:9:news:/var/spool/news:/usr/sbin/nologin
-uucp:x:10:10:uucp:/var/spool/uucp:/usr/sbin/nologin
-proxy:x:13:13:proxy:/bin:/usr/sbin/nologin
-www-data:x:33:33:www-data:/var/www:/usr/sbin/nologin
-backup:x:34:34:backup:/var/backups:/usr/sbin/nologin
-list:x:38:38:Mailing List Manager:/var/list:/usr/sbin/nologin
-irc:x:39:39:ircd:/run/ircd:/usr/sbin/nologin
-gnats:x:41:41:Gnats Bug-Reporting System (admin):/var/lib/gnats:/usr/sbin/nologin
-nobody:x:65534:65534:nobody:/nonexistent:/usr/sbin/nologin
-systemd-network:x:100:102:systemd Network Management,,,:/run/systemd:/usr/sbin/nologin
-systemd-resolve:x:101:103:systemd Resolver,,,:/run/systemd:/usr/sbin/nolo!cler
-clear
-login
-lp:x:7:7:lp:/var/spool/lpd:/usr/sbin/nologin
-mail:x:8:8:mail:/var/mail:/usr/sbin/nologin
-news:x:9:9:news:/var/spool/news:/usr/sbin/nologin
-uucp:x:10:10:uucp:/var/spool/uucp:/usr/sbin/nologin
-proxy:x:13:13:proxy:/bin:/usr/sbin/nologin
-www-data:x:33:33:www-data:/var/www:/usr/sbin/nologin
-backup:x:34:34:backup:/var/backups:/usr/sbin/nologin
-list:x:38:38:Mailing List Manager:/var/list:/usr/sbin/nologin
-irc:x:39:39:ircd:/run/ircd:/usr/sbin/nologin
-gnats:x:41:41:Gnats Bug-Reporting System (admin):/var/lib/gnats:/usr/sbin/nologin
-nobody:x:65534:65534:nobody:/nonexistent:/usr/sbin/nologin
-systemd-network:x:100:102:systemd Network Management,,,:/run/systemd:/usr/sbin/nologin
-systemd-resolve:x:101:103:systemd Resolver,,,:/run/systemd:/usr/sbin/nologin
-messagebus:x:102:105::/nonexistent:/usr/sbin/nologin
-systemd-timesync:x:103:106:systemd Time Synchronization,,,:/run/systemd:/usr/sbin/nologin
-syslog:x:104:111::/home/syslog:/usr/sbin/nologin
-_apt:x:105:65534::/nonexistent:/usr/sbin/nologin
-geoclue:x:106:112::/var/lib!exit
-‚¬û
-¬ûls
-t:x:0:0:root:/root:/bin/zsh
-daemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin
-bin:x:2:2:bin:/bin:/usr/sbin/nologin
-sys:x:3:3:sys:/dev:/usr/sbin/nologin
-sync:x:4:65534:sync:/bin:/bin/sync
-games:x:5:60:games:/usr/games:/usr/sbin/nologin
-man:x:6:12:man:/var/cache/man:/usr/sbin/nologin
-lp:x:7:7:lp:/var/spool/lpd:/usr/sbin/nologin
-mail:x:8:8:mail:/var/mail:/usr/sbin/nologin
-news:x:9:9:news:/var/spool/news:/usr/sbin/nologin
-uucp:x:10:10:uucp:/var/spool/uucp:/usr/sbin/nologin
-proxy:x:13:13:proxy:/bin:/usr/sbin/nologin
-www-data:x:33:33:www-data:/var/www:/usr/sbin/nologin
-backup:x:34:34:backup:/var/backups:/usr/sbin/nologin
-list:x:38:38:Mailing List Manager:/var/list:/usr/sbin/nologin
-irc:x:39:39:ircd:/run/ircd:/usr/sbin/nologin
-gnats:x:41:41:Gnats Bug-Reporting System (admin):/var/lib/gnats:/usr/sbin/nologin
-nobody:x:65534:65534:nobody:/nonexistent:/usr/sbin/nologin
-systemd-network:x:100:102:systemd Network Management,,,:/run/systemd:/usr/sbin/nologin
-systemd-resolve:x:101:103:systemd Resolver,,,:/run/systemd:/usr/sbin/nolo!exit
-ls
-clear
-ls
-sleep 1&sleep 2;
-sleep1&sleep2;sleep3
-clear
+cho a
+echo a
+echo a 
+echo 
+echo
 exit
-ls
-clear
-sleep 1;sleep 2& sleep 2
-cls
-clear
+echo a
+echo 
+exit
 sleep 10&
+jobs
+jobs 
+jobs	
 exit
-sleep 3&
+jobs	
+jobs 	
+jobs 
 clear
 exit
-sleep 2
-clear
-exit
-sleep 2
-ls
-clear
-sleep 3
-cls
-cler
 clea
 clear
-sleep 4
 exit
-sleep 2
+ls
+l
+s
+ls
+lslslslsls
+lsls
+ls
+exit
+ls
+exit
+pinfo
+pinfo 	
 clear
 exit
-sleep 3
+												
+ls
+				cls
+exit
+echo hehhe >> a.txt
+echo hehhe >> a.txt &
+echo hehhe >> a.txt & sleep 1
+exit
+echo hello >> text1.txt >> text2.txt
+exit
+cls
+exit
+cls
+exit
+cls
+exit
+ls
+clear
+exit
+exi
+ex
+ls
+lexit
+exit
+ls
+cls
 clear
 exit
 ls
-sleep 2
+lscls
+exit
+e
+exit
+ls
+echo hoocls
+exit
+ls
+heheexit
+hheexit
+exit
+echo hi
+echo hiecho hello myexit
+exit
+echo 
+echo hi
+echo hiii muu
+echi hi exit
+exit
+echo hexit
+exit
+hie
+lsexit
+exit
+ls
+lsexot
+exit
+ls
+ls hiii
+ls
+l
+exit
+ls
+ls hii
+exi
+exit
+ls sr
+exit
+ls 
+s
+se
+exit
+ls src
+cls
+exit
+ls s
+exit
+ls src
+cls
+exit
+ls s
+clear
+ls src
+exit
+ls
+ls s
+exit
+ls src
+exit
+ls src 
+ls src .vscode 
+cls
+exit
+src 
+ls
+ls src 
+exit
+ls .vscode 
+cd ..
+exit
+ls 
+cd ..
+cd 2020113018 
+ls
+exit
+ls 
+cls
+clear
+exit
+ls
+cat a.out 
+ls
+exit
+ls >> a.txt
+ls
+cat a.txt 
+cat a.txt
+cat << a.txt
+exit
+cat hhh
+cat a.txt
+cat a.txt 
+gedit a.txt 
+ls
+exit
+ls
+echo hiiii >> a.txt
+ls
+clear
+cat < a.txt > b.txt
+cat b.txt 
+cat b.txt
+ls
+exit
+ls
+cls
+exit
+sort < a.txt > b.txt
+cat b.txt 
+sort < a.txt > b.txt ; echo b.txt 
+sort < a.txt > b.txt ; cat << b.txt
+sort < 3 41 1 3
+sort 3 1 3 
 exit
 ls
 sleep 1
+sleep 1&
+exit
+ls
+nano sample2.txt
+ls
+cat sample2.txt | head -7 | tail -5
+ls
+cat sample2.txt 
+cat sample2.txt
+cat sample2.txt | head -5
+cat sample2.txt | head -5 | tail -3
 ls
 clear
-sleep 4
+ls
+cat << in.txt
+cat < in.txt | head 
+cat < in.txt | head -5
+clear
+clearexit
+exit
+ls
+cat sample2.txt | head -7 | tail -5
+exit
+exi
+exit
+cat sample2.txt | head -7 | tail -5
 ls
 exit
-sleep 2
+cat sample2.txt | head -7 | tail -5 | tail -3                                                     
+cat sample2.txt | head -7 | tail -5 | head -4
+cls
+exit
+cat sample2.txt | head -7 | tail -5 | tail -3                                                     
+cat sample2.txt | head -7 | tail -5 | tail -3
+cat sample2.txt | head -7 | tail -5 | tail -5
+exit
+pinfo
+cat sample2.txt | head -7 | tail -5 | tail -3
+pinfo
+exit
+cat sample2.txt | head -7 | tail -5 | tail -3                                                     
+exit
+pinfo
+exit
 ls
-sleep 4
+        close(pipes[i][0]);
+ls
+clear
+cat sample2.txt | head -7 | tail -5
+ls
+exit
+cat sample2.txt | head -7 | tail -5
+els
+exit
+ls
+clear
+pinfo
+ls
+pinfo
+exut
+exit
+ls
+c
+ls
+exit
+ls
+pinfo
+ls
+pinfo
+exit
+ls
+cat < in.txt | wc -l > lines.txt
+cat sample2.txt | head -7 | tail -5
+cls
+exit
+ks
+ls
+cd ..
+ls
+clear
+ls
+exit
+ls
+vat in.txt | wc
+cat in.txt | wc
+exit
+cat in.txt | wc
+ls
+exit
+ls
+exit
+ls
+cat sample2.txt | head -7 | tail -5
+ls
+cat in.txt | wc
+cls
+clear
+wxit
+exit
+cat in.txt | wc
+cat in,txt
+cat in.txt
+clear
+exit
+ls
+exit
+cat in.txt | wc 
+cat in.txt |wc
+c;s
+cls
+exit
+ls
+exit
+ls
+cat in.txt | wc
+ls
+exit
+ls
+cat in.txt | wc
+ls
+cat in.txt 
+catexit
+exit
+cat in.txt | wc
+ls
+cat sample2.txt | head -7 | tail -5 
+cat sample2.txt | head -7 | tail -5
+ls
+clear
+cat in.txt | head -4
+cat in.txt | head -4 | tail -1
+exit
+cat in.txt | wc
+clear
+exit
+ls
+cat in.txt | wc
+exit
+cat in.txt | wc
+exit
+cat in.txt | c
+cat in.txt | wc
+exit
+cat in.txt | wc
+exit
+cat in.txt | wc
+exit
+echo 1 | wc
+exit
+cat in.txt | head -3 | tail -1 
+cat in.txt | head -3 | tail -1
+cat in.txt | head -3 | tail -10
+clear
+exit
+cat in.txt | tail -1 
+cat in.txt | tail -1
+exit
+cat in.txt | wc 
+exit
+cat in.txt | wc
+cat in.txt | wcex
+exit
+cat in.txt | wc
+exit
+cat in.txt | wc
+exit
+cat in.txt | wc
+exit
+cat in.txt | wc
+ls
+cat in.txt | wc | wc
+exit
+cat in.txt | wc | wc
+cat in.txt | wc | wc | wc
+pinfo
+cat in.txt | wc
+pinfo
+ cat in.txt | wc | wc | wc
+ls
+cat in.txt | tail -4 | head -3
+exit
+ls
+pinfo
+cat in.txt | wc 
+cat in.txt | wc
+pinfo
+exit
+ls
+cat in.txt | wc 
+cat in.txt | wc
+exit
+cat in.txt | wc
+exit
+cat in.txt | wc
+cat in.txt | wcexit
+exit
+cat in.txt | wc
+exit
+cat in.txt | wc
+cat in.txt | wc | wc
+exit
+ls
+cat sample2.txt | head -7 | tail -5
+cat < in.txt | wc -l > lines.txt
+cat lines.txt 
+cat lines.txt
+cls
+clear
+exit
+gedit
+ls
+gedit
+ext
+exit
+gedit
+ls
+exit
+gedit
+exit
+gedit
+ls
+clear
+e
+clear
+exit
+clear
 ls
 clear
 exit
-sleep 3
+;s
+ls
+gedit
+clear
 ls
 exit
-sleep 3
 ls
 exit
-sleep 4
+gedit 
+cls
+exi
+exit
+jobs
+ls
+sleep 4&
+jobs
+exit
+clear
+ls
+sleep 4&
+josb
+jobs
+exit
+sleep 3&
+cls
+clear
+exit
+sleep 4&
+sleep 10&
+pinfo
+jobs
+sig 1380152 9
+cls
+exit
+ls
+sleep 10&
+sig 1666958
+sig 1666958 10
+exit
+sig 92993 30
+sig 
+exit
+sig
+ls
+exit
+sig
+exit
+sig
+exit
+sig
+sleep 100&
+pinfo
+jobs
+sig 1 19
+sig 1 20
+exit
+sig
+sig 1 10
+sleep 100&
+sig 1 10
+exit
+sleep 10&
+sig 1 20
+exit
+sleep 100&
+sig 1 20
+exit
+ls
+sleep 100&
+sig 1 19
+;s
+ls
+clear
+ls
+exit
+sleep 100&
+jobs
+sig 1 200
+exit
+sig 1 10
+sleep 100&
+ls
+jobs
+sig 1 10
+exit
+s
+ls
+sleep 100&
+pinfo
+jobs
+sig 1 20
+exit
+l
+sls
+ls
+clear
+ls
+sleep 100&
+jobs
+sig 1 19
+exit
+sig 2 20
+sleep 100&
+sig 1 19
+jobs
+jexit
+exit
+sig 1 100
+sleep 100&
+sleep 444&
+sig 1 200
+jobs
+exit
+sleep 100&
+sig 1 19
+ls
+jobs
+exit
+sleep 100&
+sig 1 19
 ls
 clear
 exit
-sleep 2
+sleep 100&
+sig 1 20
+ls
+lexit
+exit
+sleep 100&
+jobs
+sig 1 19
+jobs
+exit
+sleep 1
+sleep 1&
+exit
+sleep 1
+clear
 ls
 exit
-sleep 3
+ls
+clear
+ls
+sleep 1&
 ls
 clear
 exit
-sleep 3
+sleep 1
+sleep 1&
+ls
+clear
+ls
+jobs
+sleep 100&
+jobs
+sig 1 19
+jobs
+ls
+clear
+ls
+jobs
+sig 1 18
+ls
+jobs
+clear
+exit
+sleep 10
+ls
+sleep 10
+ls
+pinfo
+jobs
+clear
+jobs
+sig 1 18
+jobs
+history
+clear
+exit
+sleep 10&
+ls
+sleep 10
+l
+ls
+exit
+sleep 10
+exit
+sleep 10
 ls
 clear
 exit
-sleep 3
+ls
+gedit
+ls
+sig 1 18
+ls
+sig 1 19
+sig 1 18
+cls
+exit
+ls
+gedit
+ls
+jobs
+fg 1
+exit
+ls -l
+cls
+clear
+ls
+exit
+ls
+exit
+fg
+exit
+ls
+gedit
+ls
+jobs
+fg 1
+ls
+jobs
+fg 1
+ls
+clear
+ls
+exit
+ls
+fg 3
+clear
+exit
+gedit 
+ls
+jobs
+bg 1
+exit
+ls
+gedit
+bg 1
+ls
+jobs
+exit
+ls
+gedit
+ls
+gedit
+ls
+bg 1
+jobs
+kill 1 19
+sig 1 19
+jobs
+fg 1 
+cls
+clear
+gedit 
+jobs
+sleep 100
+jobs
+jobs -r
+jobs -s
+exit
+jobs
+sleep 100
+jobs
+gedit
+jobs
+jobs -r
+jobs -s
+bg 2
+jobs
+jobs -s
+jobs -r
+sig 1 20
+jobs
+cls
+clear
+ls
+jobs
+sig 1 2
+jobs
+sig 1 9
+clear
+ls
+cls
+exit
+ls
+exit
+ls
+clear
+ls
+cd src/ 
+;s
+ls
+clear
+cat < io.c  | tail -5 | wc -l 
+cat < io.c  | tail -5 | wc -l
+cat < io.c  | tail -5 | wc -l 
+eit
+exit
+ls
+wc README.md 
+wc README.md
+exit
+cat README.md 
+ls
+ls   
+clear
+exit
+mexi
+exit
+clear
+ls
+ls   
+ls
+ls ; ls
+sleep 1& ls;
+clear
+wc README.md 
+wc README.md  
+wc README.md  clear
+clear
+cls
+clear
+ls
+l
 sl
 ls
 clear
 exit
-sleep 3&
-n
-OBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOA
-exit
-sleep 3
-ls
 clear
-exit
-sleep 3
-ls
-cear
-exit
-cls
-sleep 3
-ls
-clear
-exit
-sleep 3
-ls
-clear
-sleep 1
-sleep 1&
-exit
-sleep 1
-ls
-clear
-sleep 2&
-ls
-clear
-exit
-sleep 2&
-exit
-sleep 1
-clear
-exit
-sleep 3
-ls
-sleep 1&
-cls
-clear
-exit
-sleep 3
-ls
-sleep 3
-ls
-exit
-sleep 1
-exit
-sleep 3
-exit
-sleep 3
-cls
-sleep 3&
-cls
-clear
-exit
-clear
-exit
-ls
-clear
-ls
-clear
-ls
-exit
-sleep 10&
-jobs
-exit
-sleep 10&
-jobs
-exit
-sleep 3&
-jobs
-clear
-sleep 5&sleep 5&
-jobs
-sleep 4&
-jobs
-exit
-sleep 5&sleep 5&
-jobs
-sleep 4&
-jobs
+gedit
 ls
 jobs
-sleep 1&
-jobs
+bg 1
+sig 9 1
+sig 1 9
 exit
 ls
-sleep 1&sleep 2;
-jobs
-sleep 4&
-jobs
-sleep 1;
-sleep 3&
-jobjs
-jobs
-sleep 5&
-jobs
 exit
-sleep 3
-ls
 sleep 4
+sleep 3&
+exit
+sleep 3&
+exit
+sleep 3&
+exit
+ls
+sleep 3&
+sleep 3& sleep 3
+exit
+sleep 2& sleep 1
+xit
+exit
+sleep 1& sleep 1
+sleep 1; sleep 1&
+exit
+sleep 1&
+ls
+l
+sl
 s
-sls
-ls
+l
+sl
+s
+slls
+s
+sllsllsls
+sl
+wl
+s;lqw;f;ewmf;
+ewlfkwlemf
+welkew;g
+ewlgf'ewr'gljkfn
+fllew;g;ef
 sleep 4
+sleep 4 &
 exit
-sleep 3
 ls
-sleep 3
+history 
 ls
-cls
+histor
+history
+exit
+istory
+history 
+history
+exit
+history
+history 
+history   
+exit
+ls 
+gedit 
+exit
+ls
+sleep 3&
+lslsll
+slewm;f
+;kewmf
+lewkf
+lwkenf
+jobs
 clear
-[A
-[Aexit
-exit
-ls
-sleep 3
-ls
-exit
-ls
-exit
-ls
-sleep 4
-ls
-exit
-sleep 3
-ls
-clear
-exit
-ls
-sleep 4
-ls
-clear
-[A
-exit
-sleep 3
-ls
-clear
-exit
-ls
-clea
-sleep 2
-exit
-sleep 3
-exit
-sleep 4
-exit
-sleep 3
-exit
-echo hii >> a.txt
 s
 ls
-cat a.txt
-exit
-echo "hi" >> a.txt
-ls
-exit
-echo hii >> a.txt ;
-ls
-cat a.txt
-cat a.txt 
-exit
-ls
 clear
-echo hii >> a.txt
 ls
-cat a.txt
+history
+history 
+gedit 
+clear
 exit
-echo hiii >> a.txt
-exit
-echo hooo >> a.txt
 ls
-cat a.txt
+ls 
+ls   
 exit
-echo a >>     a.txt
+s  
+ls   
+ls    
 ls
 exit
-echo aaa>>a.txt
-exit
-echo e >> a.txt       
-ls
-cat " a.txt"
-exit
-echo a >> a.txt
-ls
-cat a.txt
-exit
-echo hii >> a.txt
-ls
-cat a.txt
+gedit 
 cls
-exit
-ls
-echo hii >> a.txt
-exit
-echo "hii" >> a.txt
-exit
-ls
-echo hii >> a.txt
-exit
-ls
-cat <a.txt
-cat < a.txt
-exit
-cat < a.txt
-ls
-cat < a.txt > b.txt
-cat < b.txt
-exit
-ls > a.txt
-cat a.txt
-exit
-ls > a.txt
-cat a.txt
-ls
- ls > a.txt
-cat a.txt
-clear
-ls
-sort < a.txt > s.txt
-cat s.txt
-exit
-ls
-clear
-echo hiii > a.txt
-echo byee >> a.txt
-cat a.txt
-echo bye > a.txt
-cat a.txt
-exit
-echo hehe >> a.txt
-cat a.txt
-exit
-echi hehe >> a.txt
-exit
-ehehhe >> aadd
-eheheh > aa
-exit
-heheh >> hdhd
-echo hii >> a.txt
-ls
-cat a.txt
-rm aa
-rm aadd
-ls
-rm a.txt
-ls
-exit
-echo hii >> a.txt
-cat a.txt
-echo byuu >> a.txt
-cat a.txt
-echo clear > a.txt
-cat a.txt
 clear
 exit
 ls
-rm a.txt
+ls 
+exit
+ls 
+ls   
+gedit 
+clear
+exit
 ls
-echo "hello" " >> outputs.txt
-cat outputs.txt
-echo 3 4 1 4 5 77 13 4 >> a.txt
+gedit 
+ls   
+clear
 ls
-cat a,txt
-cat a.txt
+sleep 3&
+exit
+sleep 3&
 ls
-sort < a.txt > b.txt
-cat < b.txt
+clear
+gedit 
+gedit README.md 
+gedit README.md    
 exit
-sort < a.txt
-sort < a.txt > b.txt
-cat b.txt
-echo sorted >> b.txt
-cat b.txt
-exit
-sleep 3& echo works > a.txt
-cat a.txt
-exit
-echo hiii > a.txt
-echo bruu > a.txt
-echo hiii > a.txt
-exit
-echo heheh > a.txt
+cat < file.txt | wc -l
+ls
+cat file.txt 
+cd ..
+ls
+cat file.txt 
+cat < file.txt | wc -l
+cat < file.txt | wc -l >> out.txt
+cat out.txt 
+clear
+ls
+cd 2020113018
+ls
+rm file.txt 
+ls
+clear
+ls
+jobs
+gedit &
+jobs
+sig 1 9
+jobs
 exit

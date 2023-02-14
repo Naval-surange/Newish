@@ -19,12 +19,13 @@ void add_processes(Processes *Processes, char *name, int pid,int bg)
         Processes->capacity *= 2;
         Processes->names = realloc(Processes->names, sizeof(char *) * Processes->capacity);
         Processes->bg = realloc(Processes->bg, sizeof(int) * Processes->capacity);
-        Processes->status = realloc(Processes->bg, sizeof(int) * Processes->capacity);
+        Processes->status = realloc(Processes->status, sizeof(int) * Processes->capacity);
         Processes->pids = realloc(Processes->pids, sizeof(int) * Processes->capacity);
     }
     Processes->names[Processes->size] = (char *)malloc(sizeof(char) * (strlen(name) + 1));
     strcpy(Processes->names[Processes->size], name);
     Processes->bg[Processes->size] = bg;
+    Processes->status[Processes->size] = 1;
     Processes->pids[Processes->size] = pid;
     Processes->size++;
 }
@@ -36,6 +37,7 @@ void remove_processes(Processes *Processes, int index)
     {
         Processes->names[i] = Processes->names[i + 1];
         Processes->bg[i] = Processes->bg[i + 1];
+        Processes->status[i] = Processes->status[i + 1];
         Processes->pids[i] = Processes->pids[i + 1];
     }
     Processes->size--;

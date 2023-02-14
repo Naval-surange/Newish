@@ -4,6 +4,7 @@
 
 char *replaceTildaCD(const char *s)
 {
+
     char *oldW = "~";
     char *newW = HOME;
     char *result;
@@ -39,6 +40,16 @@ char *replaceTildaCD(const char *s)
 
 void cd(char **args, int len)
 {
+
+    for (int i = 0; i < len; i++)
+    {
+        if (strcmp(args[i], "") == 0)
+        {
+            len = i;
+            break;
+        }
+    }
+
     if (args[1] == NULL)
     {
         args[1] = (char *)malloc(sizeof(char) * 2);

@@ -37,6 +37,7 @@ char *replaceWord(const char *s)
 
 void prompt()
 {
+    fg_pid = 0;
     struct utsname my_uname;
     if (uname(&my_uname) < 0)
     {
@@ -47,10 +48,7 @@ void prompt()
     cwd = replaceWord(cwd);
     char *uname = getlogin();
     char *nodename = my_uname.nodename;
-    // time_t now = time(NULL);
-    // time_t diff = now - start_time;
     char *buf = (char *)malloc(sizeof(char) * 256);
-    // strftime(buf, 256, "%S", localtime(&diff));
 
     if (start_time >= 1)
     {

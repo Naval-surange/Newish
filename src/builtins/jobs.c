@@ -5,6 +5,15 @@
 void jobs(char **args, int len)
 {
 
+    for (int i = 0; i < len; i++)
+    {
+        if (strcmp(args[i], "") == 0)
+        {
+            len = i;
+            break;
+        }
+    }
+
     char **args_wo_flag = (char **)malloc(sizeof(char *) * len);
     int no_args_wo_flag = 0;
 
@@ -50,9 +59,17 @@ void jobs(char **args, int len)
 
     for (int i = 0; i < plist.size; i++)
     {
-        if (run_f && plist.bg[i])
+        if (run_f && plist.status[i])
         {
             printf("[%d] Running %s [%d]\n", i + 1, plist.names[i], plist.pids[i]);
+        }
+        else if (sleep_f && !plist.status[i])
+        {
+            printf("[%d] Sleeping %s [%d]\n", i + 1, plist.names[i], plist.pids[i]);
+        }
+        else if (sleep_f && run_f)
+        {
+            printf("[%d] %s %s [%d]\n", i + 1, plist.status[i] ? "Running" : "Sleeping", plist.names[i], plist.pids[i]);
         }
     }
 }

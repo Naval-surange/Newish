@@ -27,6 +27,14 @@
 #include <sys/signal.h>
 #include <time.h>
 #include <ctype.h>
+#include <limits.h>
+#include <stdio.h>
+#include <termios.h>
+#include <stdlib.h>
+#include <unistd.h>
+#include <ctype.h>
+#include <dirent.h>
+#include <string.h>
 
 #include "parser.h"
 #include "prompt.h"
@@ -38,5 +46,7 @@
 
 extern char *HOME;
 extern time_t start_time;
+extern pid_t shell_pid;
+extern pid_t fg_pid;
 
 #endif

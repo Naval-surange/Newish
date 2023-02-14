@@ -105,6 +105,16 @@ int discover_util(char *dirName, char *fileName, int search, int dir_f, int file
 
 void discover(char **args, int len)
 {
+
+    for (int i = 0; i < len; i++)
+    {
+        if (strcmp(args[i], "") == 0)
+        {
+            len = i;
+            break;
+        }
+    }
+
     if (len == 1)
     {
         args = (char **)realloc(args, sizeof(char *) * 2);

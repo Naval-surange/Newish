@@ -3,11 +3,21 @@
 
 void pinfo(char **args, int len)
 {
+    for (int i = 0; i < len; i++)
+    {
+        if (strcmp(args[i], "") == 0)
+        {
+            len = i;
+            break;
+        }
+    }
+
     if (len > 2)
     {
         printf("pinfo: too many arguments\n");
         return;
     }
+    
     pid_t pid = getpid();
     if (len == 2)
     {
@@ -28,27 +38,27 @@ void pinfo(char **args, int len)
     int i = 0;
     char *state = malloc(sizeof(char) * 10);
     long int memory = 0;
-	pid_t pgrp_id = 0;
+    pid_t pgrp_id = 0;
 
     while (token != NULL)
     {
         if (i == 2)
             strcpy(state, token);
-        if(i == 4)
+        if (i == 4)
             pgrp_id = atoi(token);
         if (i == 22)
             memory = atoi(token);
         token = strtok(NULL, " ");
         i++;
     }
-    char state_activity = (pgrp_id==tcgetpgrp(0)) ? '+':'-';
+    char state_activity = (pgrp_id == tcgetpgrp(0)) ? '+' : '-';
 
     char *exec_path = malloc(sizeof(char) * 1024 * 4);
     sprintf(process_path, "/proc/%d/exe", pid);
 
     readlink(process_path, exec_path, 1024 * 4);
     printf("pid -- %d\n", pid);
-    printf("Process Status -- %s%c\n", state,state_activity);
+    printf("Process Status -- %s%c\n", state, state_activity);
     printf("memory -- %ldB\n", memory);
     printf("Executable Path -- %s\n", exec_path);
     fclose(fp);

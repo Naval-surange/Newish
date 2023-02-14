@@ -44,6 +44,15 @@ char *replaceTilda(const char *s)
 void ls(char **args, int len)
 {
 
+    for (int i = 0; i < len; i++)
+    {
+        if (strcmp(args[i], "") == 0)
+        {
+            len = i;
+            break;
+        }
+    }
+
     char **args_wo_flag = (char **)malloc(sizeof(char *) * len);
     int no_args_wo_flag = 0;
 

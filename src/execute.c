@@ -5,6 +5,8 @@
 #include "builtins/pinfo.h"
 #include "builtins/discover.h"
 #include "builtins/jobs.h"
+#include "builtins/sig.h"
+#include "builtins/fgbg.h"
 #include "history.h"
 #include "execute.h"
 #include "process.h"
@@ -14,8 +16,6 @@ void execute(char **args, int len, int bg)
 
     if (len < 1 || args[0] == NULL || strcmp(args[0], "") == 0 || strcmp(args[0], "\0") == 0)
         return;
-
-    // start_time = time(NULL);
 
     if (strcmp(args[0], "cd") == 0)
         cd(args, len);
@@ -31,6 +31,12 @@ void execute(char **args, int len, int bg)
         discover(args, len);
     else if (strcmp(args[0], "jobs") == 0)
         jobs(args, len);
+    else if (strcmp(args[0], "sig") == 0)
+        sig(args, len);
+    else if (strcmp(args[0], "fg") == 0)
+        fg(args, len);
+    else if (strcmp(args[0], "bg") == 0)
+        bg_fun(args, len);
     else if (strcmp(args[0], "pwd") == 0)
     {
         if (len > 1)
@@ -52,7 +58,6 @@ void execute(char **args, int len, int bg)
     {
         pid_t pid;
         int status;
-
         pid = fork();
         if (pid == 0)
         {
@@ -61,7 +66,18 @@ void execute(char **args, int len, int bg)
                 setpgid(0, 0);
             }
 
-            int exec_status = execvp(args[0], args);
+            char **newArgs = (char **)malloc(sizeof(char *) * (len + 1));
+            int newLen = 0;
+            for (int i = 0; i < len; i++)
+            {
+                if (strcmp(args[i], "") != 0)
+                {
+                    newArgs[i] = args[i];
+                    newLen++;
+                }
+            }
+            newArgs[newLen] = NULL;
+            int exec_status = execvp(newArgs[0], newArgs);
             if (exec_status == -1)
             {
                 perror("Error");
@@ -77,11 +93,13 @@ void execute(char **args, int len, int bg)
         else
         {
             add_processes(&plist, args[0], pid, bg);
+            fg_pid = pid;
             if (!bg)
             {
                 time_t st_time = time(NULL);
 
-                waitpid(pid, &status, WUNTRACED);
+                pause();
+
                 time_t end_time = time(NULL);
                 start_time += end_time - st_time;
             }
